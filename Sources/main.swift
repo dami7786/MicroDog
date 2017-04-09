@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+for argu in CommandLine.arguments {
+    print(argu)
+}
